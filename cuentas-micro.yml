@@ -1,4 +1,4 @@
 server:
- port: 9000
+ port: 9002
 test:
- value: "From properties"
+ value: "From properties cuentas micro"
