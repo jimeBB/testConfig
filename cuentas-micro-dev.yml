@@ -1,4 +1,4 @@
 server:
-  port: 9008
+  port: 9009
 test:
   value: "From properties dev"
