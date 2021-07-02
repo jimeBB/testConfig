@@ -1,4 +1,4 @@
 server:
-  port: 9008
+  port: 9007
 test:
-  value: "From properties"
+  value: "From properties micro usuarios"
